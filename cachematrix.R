@@ -2,7 +2,7 @@
 ## They provide a way to store and read inverse matrix for given matrix, allowing to avoid
 ## repeated time-consuming computations of inverse matrix.
 ## First function provides a cache mechanism for storing and reading matrix and its inverse.
-## Second function 
+## Second function provides implementation of inverse matrix calculation using cache.
 
 
 ## This function provides a wrapper for matrix and its inverse. It creates a list of functions 
